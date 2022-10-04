@@ -8,5 +8,5 @@ brew tap giraugh/giraugh
 ```
 
 ## Available Formulae
-- 🍝 `pasta` - Display today's pastafarian holiday.
-- 🥧 `pi-time` - Count down to pi time.
+- 🍝 [`pasta`](https://github.com/giraugh/pasta) - Display today's pastafarian holiday.
+- 🥧 [`pi-time`](https://github.com/giraugh/pi-time) - Count down to pi time.
